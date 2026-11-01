@@ -1,0 +1,1 @@
+Project...new project....name.....sst 8051/lpc2148....new file....file_name.c....paste code....right click source group....add existing files...choose file....build target....debut...start/stop....run..... peripherals/gpio.....right click target...options...create hex file...build target...sst flash/flash magic....connect...upload hex file....done
